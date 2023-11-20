@@ -1,6 +1,4 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
-
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -9,7 +7,6 @@ To create a 3D model from given orthographic projection.
 2. Windows 10
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
-
 ## PROCEDURE:
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
@@ -39,12 +36,7 @@ To create a 3D model from given orthographic projection.
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
-
 ## OUTPUT:
 ![ex05](https://github.com/dharshan7200/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/138850116/bd9411fc-101a-497d-a969-d4e0404c69cd)
-
-
-
-
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
